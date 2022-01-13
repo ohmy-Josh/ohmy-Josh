@@ -1,4 +1,5 @@
-### 재상에 이런일이‼
+### Hi,There 👋
+**재상에 이런일이!**
 
 <!--
 **ohmy-Josh/ohmy-Josh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
