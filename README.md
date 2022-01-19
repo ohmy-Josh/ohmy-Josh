@@ -3,8 +3,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohmy_Josh)](https://solved.ac/ohmy_Josh/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parksoeun)](https://solved.ac/parksoeun/)
-
 <!--
 **ohmy-Josh/ohmy-Josh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
