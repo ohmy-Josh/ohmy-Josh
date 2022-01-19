@@ -1,6 +1,8 @@
 ### Hi, there 👋
 **재상에 이런일이! => ohmy-Josh**
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohmy_Josh)](https://solved.ac/jhwon07/)
+
 <!--
 **ohmy-Josh/ohmy-Josh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
