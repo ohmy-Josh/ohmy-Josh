@@ -1,9 +1,11 @@
 ### ohmy-Josh
 **재상에 이런일이!**
 
-Hi, there 👋 I’m currently learning SW skills through SSAFY.🌱(Samsung Sofeware Academy For Youth, 22.01~)
-
+Hi, there 👋 I’m currently learning SW skills through SSAFY.🌱
 I’m interested in Data Engineering.📐
+
+
+- Samsung Sofeware Academy For Youth, 22.01~
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
