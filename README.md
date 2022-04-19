@@ -1,4 +1,5 @@
-### ohmy-Josh
+### ohmy-Josh 
+🎵Don't you know I'm a SSAFY?
 **재상에 이런일이!**
 
 Hi, there 👋 I’m currently learning SW skills through SSAFY.🌱
