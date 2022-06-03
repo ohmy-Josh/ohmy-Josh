@@ -1,5 +1,4 @@
-### ohmy-Josh 
-🎵Don't you know I'm a SSAFY?
+### ohmy-Josh !!!
 
 **재상에 이런일이!**
 
