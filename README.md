@@ -8,7 +8,7 @@ I’m interested in Data Engineering.📐
 
 
 - ESC, Statistical and Data Science Society (19.09 ~ 20.09)
-- SSAFY, Samsung Sofeware Academy For Youth (22.01 ~)
+- SSAFY, Samsung Sofeware Academy For Youth (22.01 ~ 22.06)
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
