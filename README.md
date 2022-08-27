@@ -2,7 +2,7 @@
 
 **재상에 이런일이!**
 
-Hi, there 👋 I’m currently learning SW skills through SSAFY.🌱
+~~Hi, there 👋 I’m currently learning SW skills through SSAFY.🌱~~
 
 I’m interested in Data Engineering.📐
 
